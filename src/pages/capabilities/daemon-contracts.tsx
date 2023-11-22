@@ -80,7 +80,7 @@ function FeaturePage() {
             <p>
               The Internet Computer provides a means to avoid such problems, by
               allowing canister smart contracts to be configured so that they
-              aer invoked by the blockchain itself, at some specified block
+              are invoked by the blockchain itself, at some specified block
               interval.
             </p>
           </div>
